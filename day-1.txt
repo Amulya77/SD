@@ -1,0 +1,30 @@
+Goal: Strong OOP + Design Basics
+Day 1–2
+
+    What is System Design?
+
+    HLD vs LLD
+
+    OOP recap (deep understanding)
+
+    Write:
+
+    Simple Car, Engine, Driver classes
+
+Day 3
+
+    Encapsulation & Abstraction
+
+    Access modifiers
+
+    Bad vs good class design
+
+Day 4
+
+    Inheritance & Polymorphism
+
+    When inheritance is bad
+
+    Favor composition over inheritance
+
+To view the .md file use ctrl+shift+V
