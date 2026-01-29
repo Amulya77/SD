@@ -1,7 +1,3 @@
-Alright, **Day 5** unlocked 🔓
-This is an **interview-critical + system-design foundation** topic, so we’ll go slow, visual (mentally), and *crystal clear*.
-
----
 
 # 🟦 DAY 5 — UML Class Diagrams
 
