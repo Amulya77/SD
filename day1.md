@@ -1670,8 +1670,7 @@ class Manager : public Employee {
 
 **Remember:** OOP is not about making code longer—it's about making code **clearer, more maintainable, and more flexible**. Always ask: "Will this design make sense to someone reading it 6 months from now?"
 
-**Good luck with your learning journey! 🚀**
 
 ---
 
-*End of Guide*
+
