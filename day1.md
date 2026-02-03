@@ -1,7 +1,7 @@
 # 4-Day System Design & OOP Mastery Guide
 
 **Complete Tutorial with C++ & Java Examples**  
-*From Beginner to Advanced | Including FAQs, Homework & Practical Examples*
+*From Beginner to Advanced | Including F.A.Qs, Homework & Practical Examples*
 
 ---
 
